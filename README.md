@@ -22,7 +22,7 @@ You already know you want to learn machine learning, and a smarter way to unde
 * Discover ways to approach machine learning classification problems 
 * Develop neural network structures using the scikit-learn package 
 * Use the NN algorithm to create models for predicting future outcomes 
-* Perform error analysis to improve the performance of your models  
+* Perform error analysis to improve the performance of your models ,
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
