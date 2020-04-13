@@ -27,5 +27,5 @@ You already know you want to learn machine learning, and a smarter way to unde
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
 * [The Python Workshop](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop)
-* [The Java Workshop](https://courses.packtpub.com/courses/java?utm_source=github&utm_medium=repository&utm_campaign=9781838986698&utm_term=Java&utm_content=The%20Java%20Workshop)
-* [The Ruby Workshop](https://courses.packtpub.com/courses/ruby?utm_source=github&utm_medium=repository&utm_campaign=9781838642365&utm_term=Ruby&utm_content=The%20Ruby%20Workshop)
+* [The Supervised Learning Workshop](https://courses.packtpub.com/courses/supervised-learning)
+* [The Data Visualization Workshop](https://courses.packtpub.com/courses/data-visualization)
