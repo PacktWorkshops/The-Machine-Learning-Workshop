@@ -10,7 +10,7 @@ This is the repository for The Machine Learning Workshop, published by [Packt](h
 <a href="https://www.packtpub.com/programming/the-clojure-workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Machine%20Learning%20Workshop.png" alt="The Machine Learning Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
-1. Install Python on [Windows/Mac/](https://www.python.org/downloads/release/python-376/)
+1. Install Python on [Windows/Mac](https://www.python.org/downloads/release/python-376/)
 2. Install pip on [Windows/Mac/Linux](https://pip.pypa.io/en/stable/installing/)
 
 ## About The Machine Learning Workshop
