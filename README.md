@@ -7,22 +7,22 @@
 This is the repository for The Machine Learning Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://www.packtpub.com/programming/the-clojure-workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Machine%20Learning%20Workshop.png" alt="The Machine Learning Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
+<a href="https://www.packtpub.com/programming/the-clojure-workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15781_The%20Machine%20Learning%20Workshop.png" alt="The Machine Learning Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install Python on [Windows/Mac](https://www.python.org/downloads/release/python-376/)
 2. Install pip on [Windows/Mac/Linux](https://pip.pypa.io/en/stable/installing/)
 
 ## About The Machine Learning Workshop
-You already know you want to learn machine learning, and a smarter way to understanding machine learning is to learn by doing. The Machine Learning Workshop focuses on building up your practical skills so that you can develop applications for predicting future outcomes, or even apply an unsupervised algorithm to a real-life dataset using machine learning fundamentals. You'll learn from real examples that lead to real results. 
+Machine learning algorithms are an integral part of almost all modern applications. To make the learning process faster and more accurate, you need a tool flexible and powerful enough to help you build machine learning algorithms quickly and easily. With The Machine Learning Workshop, you’ll master the scikit-learn library and become proficient in developing clever machine learning algorithms.
 
 ## What you will learn
-* Distinguish between supervised and unsupervised ML models
-* Learn popular algorithms, such as K-means, Mean-Shift, and DBSCAN 
-* Discover ways to approach machine learning classification problems 
+* Understand how to select an algorithm that best fits your dataset and desired outcome 
+* Explore popular real-world algorithms such as K-means, Mean-Shift, and DBSCAN 
+* Discover different approaches to solve machine learning classification problems 
 * Develop neural network structures using the scikit-learn package 
 * Use the NN algorithm to create models for predicting future outcomes 
-* Perform error analysis to improve the performance of your models
+* Perform error analysis to improve your model's performance 
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
