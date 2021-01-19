@@ -7,7 +7,7 @@
 This is the repository for [The Machine Learning Workshop](https://www.amazon.com/Machine-Learning-Workshop-high-performance-scikit-learn/dp/1839219068/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611061956&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781801070065&utm_term=Machine%20Learning&utm_content=The%20Machine%20Learning%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://www.amazon.com/Machine-Learning-Workshop-high-performance-scikit-learn/dp/1839219068/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611061956&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781801070065&utm_term=Machine%20Learning&utm_content=The%20Machine%20Learning%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15781_The%20Machine%20Learning%20Workshop.png" alt="The Machine Learning Workshop" height="310px" width="260px" align="right" this.target="_blank"></a>
+<a href="https://www.amazon.com/Machine-Learning-Workshop-high-performance-scikit-learn/dp/1839219068/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611061956&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781801070065&utm_term=Machine%20Learning&utm_content=The%20Machine%20Learning%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15781_The%20Machine%20Learning%20Workshop.png" alt="The Machine Learning Workshop" height="290px" width="240px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install Python on [Windows/Mac](https://www.python.org/downloads/release/python-376/)
